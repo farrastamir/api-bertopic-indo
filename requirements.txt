@@ -1,0 +1,6 @@
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+bertopic==0.15.0
+sentence-transformers==2.2.2
+pydantic==2.4.2
+pandas==2.1.1
